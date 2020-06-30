@@ -1,0 +1,5 @@
+# Function dependencies, for example:
+# package>=version
+google-cloud-bigquery
+googleapis-common-protos
+Flask==1.0.2
